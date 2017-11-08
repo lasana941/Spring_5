@@ -4,6 +4,8 @@
     <bytecodeTargetLevel>
       <module name="kodilla-spring-intro_main" target="1.8" />
       <module name="kodilla-spring-intro_test" target="1.8" />
+      <module name="kodilla-spring_main" target="1.8" />
+      <module name="kodilla-spring_test" target="1.8" />
       <module name="Spring_5_main" target="1.8" />
       <module name="Spring_5_test" target="1.8" />
     </bytecodeTargetLevel>

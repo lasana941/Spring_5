@@ -5,9 +5,12 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Spring_5.iml" filepath="$PROJECT_DIR$/.idea/modules/Spring_5.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Spring_5_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Spring_5_main.iml" group="Spring_5" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Spring_5_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Spring_5_test.iml" group="Spring_5" />
+      <module fileurl="file://$PROJECT_DIR$/kodilla-spring/kodilla-spring.iml" filepath="$PROJECT_DIR$/kodilla-spring/kodilla-spring.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/kodilla-spring-intro.iml" filepath="$PROJECT_DIR$/.idea/modules/kodilla-spring-intro.iml" group="kodilla-spring-intro" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/kodilla-spring-intro/kodilla-spring-intro_main.iml" filepath="$PROJECT_DIR$/.idea/modules/kodilla-spring-intro/kodilla-spring-intro_main.iml" group="kodilla-spring-intro" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/kodilla-spring-intro/kodilla-spring-intro_test.iml" filepath="$PROJECT_DIR$/.idea/modules/kodilla-spring-intro/kodilla-spring-intro_test.iml" group="kodilla-spring-intro" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kodilla-spring_main.iml" filepath="$PROJECT_DIR$/.idea/modules/kodilla-spring_main.iml" group="kodilla-spring" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kodilla-spring_test.iml" filepath="$PROJECT_DIR$/.idea/modules/kodilla-spring_test.iml" group="kodilla-spring" />
     </modules>
   </component>
 </project>
