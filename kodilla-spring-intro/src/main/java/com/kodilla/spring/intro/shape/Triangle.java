@@ -1,7 +1,5 @@
 package com.kodilla.spring.intro.shape;
 
-import sun.security.provider.SHA;
-
 public class Triangle implements Shape{
     @Override
     public String draw() {
